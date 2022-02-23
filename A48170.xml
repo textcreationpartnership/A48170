@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend in the country concerning His Grace the Duke of Buckingham</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48170</idno>
+            <idno type="STC">Wing L1648</idno>
+            <idno type="STC">ESTC R36354</idno>
+            <idno type="EEBO-CITATION">15667356</idno>
+            <idno type="OCLC">ocm 15667356</idno>
+            <idno type="VID">104327</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104327)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend in the country concerning His Grace the Duke of Buckingham</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buckingham, George Villiers, --  Duke of, 1628-1687.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104327:1"/>
+            <head>A LETTER To a FRIEND in the <hi>CO<g ref="char:V">Ʋ</g>NTRY,</hi> con<g ref="char:EOLhyphen"/>cerning his Grace the Duke of Buckingham.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Do confeſs the late proceedings againſt the Duke of <hi>Buckingham</hi> ſurprizes my Underſtanding more than ever any thing yet has done (in our Nation) ſince his Majeſties happy Reſtauration, and eſpecialy when we pretend to no Arbitrary Government; but ſince ſo infamous a perſon as Mrs. <hi>Le-Mar,</hi> and her Son can gain ſuch points of favourable advantage againſt ſo great a man; what ſhall we of a lower degree expect, when any malicious Adverſaries will pleaſe themſelves to be revenged? In my opinion, the Comple<g ref="char:EOLhyphen"/>ment the <hi>Grand Seignior</hi> generally uſes to Favorites in diſgrace, is much more tolerable, than to let ſuch grand and infamous Impoſtors reign in their Perjuries and Subornations; not that I ſpeak this in any reflection to his Majeſty, whoſe innate principles of Juſtice is well known to all the World; but the matter I complain of, is, that his Miniſters of State ſhould have impudence enough, to dare to perſwade him, to leſſen himſelf ſo much to appear their Property, for the ſake of their own <hi>Malice</hi> and <hi>Envy;</hi> and truly the procee<g ref="char:EOLhyphen"/>dings at the <hi>Council Table</hi> have ſhewed no leſs, if we had not Teſtimo<g ref="char:EOLhyphen"/>nies of his Integrity and Love to <hi>Juſtice;</hi> for 'tis not equal to hear one party and not another in any cauſe; and far more abominable to encourage the Impoſtor, when lights have been ſo far offer'd, to make them appear ſo viſibly to all the World.</p>
+            <p>
+               <hi>Sodomy</hi> no doubt is a very grievous ſins, for it wrongs the in<g ref="char:EOLhyphen"/>tention of the Creation and Generation of the World; and for that reaſon, our <hi>wiſe Laws</hi> have provided a puniſhment fit for ſo horrid a ſin; and I do not doubt, but this <hi>Great Man</hi> deteſts the abominableneſs of it as much, or more, than thoſe judging people who wrong him in his Fame and Honour, in thinking and con<g ref="char:EOLhyphen"/>cluding him guilty. I may offer an <hi>Engliſh</hi> Proverb in this Caſe, and I hope not improper, <hi>That the old Woman have never look'd for her Daughter in the Oven, but that ſhe had been there her ſelf.</hi> If it be a reflection to any one, they have urged it from an impartial hand, bribed to nothing but the Truth, nor for advantage would take the
+<pb n="2" facs="tcp:104327:2"/>pains to write this. But knowing Truth to be but one thing, and that there is great variety in Wrong, makes me endeavour to de<g ref="char:EOLhyphen"/>fend that ſingle Excellence, ſeing that ſilver Dams ſtem her courſe, and would make her obſcure her beautiful ſelf, did not a couragi<g ref="char:EOLhyphen"/>ous Innocency endeavour to pluck up the Sluce, and let the world ſee her naked Beauty.</p>
+            <p>Theſe cunning, yet ſilly managers have not wiſdom enough to foreſee the fatal conſequence of their own Ruine, and by the dange<g ref="char:EOLhyphen"/>rous ſnare they have laid for this great Duke, always make their own Eſtates and Lives inſecure, when any Enemy that has money enough to engage Subornations, will pleaſe to make their lives their ſports, to facillitate their own ends.</p>
+            <p>And 'tis too practicable a thing now in our Nation to ſwear people out of all their beings; nor will it ever be otherwiſe while Mo<g ref="char:EOLhyphen"/>ney and Encouragement is given to thoſe ſort of Helliſh Cater<g ref="char:EOLhyphen"/>pillars, who eat people out of their lives in a formal pretence of Law, <hi>Swearing for the King,</hi> when every honeſt Subject that is loſt, is ta<g ref="char:EOLhyphen"/>king away both an ornament and a ſupporter of his Dignity.</p>
+            <p>There is another ſort of <hi>Killing,</hi> beſides taking away the <hi>Life,</hi> and that is a taking away a mans <hi>Reputation</hi> and <hi>Honour;</hi> and that theſe <hi>Muſhrooms</hi> have learnt from their eſpecial St. <hi>Machiavel,</hi> who tells you, <hi>Aſperſe and blacken much your Enemy,</hi> and ſome thing, (though not true) <hi>which ſtill is to his diſadvantage.</hi> This Courſe the Duke of <hi>Buckingham</hi>'s back-friends have taken, and made ſe<g ref="char:EOLhyphen"/>veral Calumnious Reports of him, and endeavoured to perſwade his Majeſty, that when he retired from a dangerous proſpect of Impriſonment into <hi>France,</hi> that he was gone to break the Kings Meaſures there.</p>
+            <p>I would willingly know from any Learned man, whether his Grace would ſell his own Country, betray his Majeſty, inſlave himſelf to <hi>Popery,</hi> and be ſure of his own ruine, for revenge to the deſpicable Earl of <hi>D.</hi> becauſe he contrived, aſſiſted, and aſſiſts this Villany againſt him. —</p>
+            <p>But ſtill the Snake lies underneath, and 'tis ſo cowardly a wicked<g ref="char:EOLhyphen"/>nedſs, that they which ſtill under hand act, are aſhamed to own it, though villainous, and <hi>extrajudiciall</hi> proceedings daily are viſible.</p>
+            <p>Otherwiſe, why did they trouble the King and Council Table with a buſineſs of this Nature? Was it ever heard that <hi>Sodomy</hi> had a redreſs where there was no power to give it, or that a Court of no Record ought to hear <hi>Crimes</hi> of this nature? But I begg the Readers pardon, they would hear but one, and therefore 'tis to be
+<pb n="3" facs="tcp:104327:2" rendition="simple:additions"/>hoped, 'twas to entertain their leiſure, vacated by want of knowing what to do at that preſent time.</p>
+            <p>Yet the Conſequences of it were very malignant; for a <hi>poor petty Seſſions</hi> at <hi>Weſtminſter</hi> learnt them their Leſſon by their proceedings; and ſo expert they were, that the very <hi>Jury</hi> had papers in their po<g ref="char:EOLhyphen"/>ckets, to interrogate the Dukes Evidences in matters not concerning what they came to evidence; and all to ſave dear <hi>Mr. L.</hi> a Pillar of the Congregation of <hi>D.</hi>
+            </p>
+            <p>The <hi>Juſtices</hi> lookt themſelves like <hi>Privy Councellors,</hi> and ſweet Sr. <hi>F.</hi> like Preſident of the <hi>Board,</hi> the <hi>Cryer</hi> thought himſelf no worſe than Sr. <hi>P. L.</hi> but much more <hi>impudent:</hi> for when the <hi>Dukes</hi> Witneſſes deſired to hear what Verdict the choſen <hi>Jury</hi> brought in he told them fairly, they muſt <hi>remove.</hi>
+            </p>
+            <p>Then when the victorious <hi>Triumph</hi> was obtained for honeſt <hi>Mr. L.</hi> though matter of <hi>Subornation,</hi> was poſitively ſworn by two un<g ref="char:EOLhyphen"/>tainted Witneſſes, and the <hi>Bill</hi> for all that, found <hi>Ignoramus.</hi> Pre<g ref="char:EOLhyphen"/>ſently the <hi>Hectors</hi> of the Cauſe run to an <hi>Intelligencer,</hi> to let me <hi>Mo<g ref="char:EOLhyphen"/>bile</hi> ſee the innocency of the Young man, and ſcandalouſly and falſly, (not I believe miſtakingly) prints an <hi>Infamous Woman</hi> brought to ſwear for the Duke, by <hi>Mrs. P.</hi> againſt <hi>Mr. L.</hi> when there was no ſuch Woman as mentioned in that Paper, nor well known to <hi>Mrs. P.</hi> but the Woman that then ſwore before the <hi>Jury,</hi> was a worthy Widdow of a man of great <hi>Reputation,</hi> and not brought by Mrs. <hi>P.</hi> nor known to her, that ſhe was to be there.</p>
+            <p>But they have nothing to ſupport their ſcandalous <hi>Conſpiracy</hi> againſt the <hi>D.</hi> of <hi>Buckingham,</hi> but Lies and Perjuries, and they imagine, if they defame his Evidences, they gain a point of miſ<g ref="char:EOLhyphen"/>chief, and that pleaſes theſe ſilly under-hand Knaves.</p>
+            <p>But, Sir, you were pleaſed in your laſt to deſire an account how this matter came to be ſcann'd before the Council; truly at the firſt I was as much to ſeek in that matter, as <hi>I</hi> preſume you are, but very lately enquiring into it, ſome that Juſtice <hi>Barnſley</hi> having ta<g ref="char:EOLhyphen"/>ken the Examination of <hi>Le-Mar,</hi> was ſent for the next day to the <hi>Tower,</hi> to the Lord <hi>D.</hi> who, although a <hi>Traytor</hi> under <hi>Impeach<g ref="char:EOLhyphen"/>ment,</hi> having no juſt way to acquit himſelf, but by an illegal Par<g ref="char:EOLhyphen"/>don, yet had he the impudence to chaſtize the <hi>Juſtice</hi> for doing but his <hi>Duty,</hi> and withal, letting him know, he ſhould come to trouble for doing that Act, although it cannot be denied by every honeſt man, that it was a Legal Action: however within ſome few days time (according to this <hi>Great Lords Prognoſtication</hi>) the <hi>Coun<g ref="char:EOLhyphen"/>cil</hi> did interpoſe in the affair, and ordered the Juſtice to be turned
+<pb n="4" facs="tcp:104327:3" rendition="simple:additions"/>out of the <hi>Commiſſion</hi> of the <hi>Peace,</hi> for daring to venture to take a <hi>Confeſſion</hi> from <hi>Le-Mar,</hi> wherein it did manifeſtly appear, the Lord <hi>D.</hi> (as the chief Villain) was accuſed. <hi>I</hi> am ſorry to be thus over<g ref="char:EOLhyphen"/>tedious, and therefore ſhall not further tire your patience, only this, that ſince the printed <hi>Bawd</hi> took the boldneſs to tell the world of an Order for the proſecution of the Juſtice, and others for doing their duty, it may not be amiſs to inform you, the Effect of that Order in <hi>Surrey,</hi> as well as Sr. <hi>W</hi>'s Jury in <hi>Weſtminſter,</hi> the great Lord <hi>D.</hi> having by his own Attorney, got an Indictment drawn a<g ref="char:EOLhyphen"/>gainſt the Juſtice for tampering with <hi>Le-Mar,</hi> was at the charge of a Coach and four Horſes to carry <hi>Le-Mar,</hi> to the Seſſions at <hi>Croy<g ref="char:EOLhyphen"/>den</hi> in State, there to ſwear the <hi>Indictment,</hi> which was ſo lamely done, that had it not been for Sr. <hi>J. B</hi>'s. <hi>Clerk,</hi> and the Order of <hi>Council,</hi> and ſeveral <hi>Clerks</hi> of the <hi>Council</hi> that took the pains to bring <hi>Le-Mar</hi>'s Examinations taken before them formerly, and to give them for <hi>Evidence</hi> to the <hi>Jury,</hi> by the <hi>Chair-man's</hi> expreſs Order, the <hi>Knave in the Tower</hi> had loſt both his labour and charge; inſo<g ref="char:EOLhyphen"/>much that the Jury themſelves that were awed two or three times together, refuſed to find the matter; but this ſilly, ſilly, as well as the Knave, got a mighty point in this great Action, inſomuch that the <hi>CRACK-FART</hi> of the <hi>Nation</hi> ought to take eſpecial no<g ref="char:EOLhyphen"/>tice. And here give me leave to obſerve the difference of the two <hi>Seſſions,</hi> one could not find the <hi>Bill</hi> with two poſitive Evidences; at the other, there was not one but the <hi>Papers,</hi> and the power of the <hi>Juſtice,</hi> telling the Jury, that a probability was enough, eſpeci<g ref="char:EOLhyphen"/>ally where the <hi>Council</hi> had ordered the matter.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
